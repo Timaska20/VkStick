@@ -13,7 +13,7 @@ while True:
   	continue 
 	  
 	
-token = "a9fc96e88ab9176a79d899440c74b2f5df41f55980d7cbcd691635c75a18bc0f7b41d0f3d4893f10c1ea4"
+token = "a9fc96e88ab9176a79d899440c74b2f5df41f55980d7cbcd691635c75a18b************a4"#токен 
 peerID="1"
 version="5.103"
 filename = str(input('Ведите название файла без .png:\n'))
